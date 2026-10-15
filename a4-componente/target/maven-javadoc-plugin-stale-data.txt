@@ -1,0 +1,56 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-classpath
+'C:/Users/newal/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2.jar;C:/Users/newal/.m2/repository/org/openjfx/javafx-controls/21.0.2/javafx-controls-21.0.2-win.jar;C:/Users/newal/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2.jar;C:/Users/newal/.m2/repository/org/openjfx/javafx-graphics/21.0.2/javafx-graphics-21.0.2-win.jar;C:/Users/newal/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2.jar;C:/Users/newal/.m2/repository/org/openjfx/javafx-base/21.0.2/javafx-base-21.0.2-win.jar'
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/newal/Desktop/DI-UD2/a4-componente/src/main/java'
+-author
+-bottom
+'Copyright &#169; 1980. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/newal/Desktop/DI-UD2/a4-componente/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'a4-componente 1.0-SNAPSHOT API'
+-notimestamp
+-use
+-version
+-windowtitle
+'a4-componente 1.0-SNAPSHOT API'
+es.dam.di.componente
+C:\Users\newal\.m2\repository\org\openjfx\javafx-controls\21.0.2\javafx-controls-21.0.2.jar = 1792079826113
+C:\Users\newal\.m2\repository\org\openjfx\javafx-controls\21.0.2\javafx-controls-21.0.2-win.jar = 1792079826437
+C:\Users\newal\.m2\repository\org\openjfx\javafx-graphics\21.0.2\javafx-graphics-21.0.2.jar = 1792079826235
+C:\Users\newal\.m2\repository\org\openjfx\javafx-graphics\21.0.2\javafx-graphics-21.0.2-win.jar = 1792079826753
+C:\Users\newal\.m2\repository\org\openjfx\javafx-base\21.0.2\javafx-base-21.0.2.jar = 1792079826294
+C:\Users\newal\.m2\repository\org\openjfx\javafx-base\21.0.2\javafx-base-21.0.2-win.jar = 1792079826343
+C:\Users\newal\Desktop\DI-UD2\a4-componente\src\main\java = 1792083748947
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\allclasses-index.html = 1792087112125
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\allpackages-index.html = 1792087112128
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\copy.svg = 1792087112200
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\element-list = 1792087112032
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\help-doc.html = 1792087112192
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\index-all.html = 1792087112173
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\index.html = 1792087112187
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\link.svg = 1792087112203
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\member-search-index.js = 1792087112135
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\module-search-index.js = 1792087112130
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\overview-tree.html = 1792087112093
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\package-search-index.js = 1792087112132
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\script.js = 1792087112199
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\search-page.js = 1792087112249
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\search.html = 1792087112181
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\search.js = 1792087112215
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\stylesheet.css = 1792087112195
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\tag-search-index.js = 1792087112160
+C:\Users\newal\Desktop\DI-UD2\a4-componente\target\reports\apidocs\type-search-index.js = 1792087112133

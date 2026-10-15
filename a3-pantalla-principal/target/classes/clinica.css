@@ -1,0 +1,101 @@
+
+/* Guía de estilos de la clínica - Unidad 1 */
+
+.root {
+    -fx-font-family: "Inter", "Segoe UI", Arial, sans-serif;
+    -fx-font-size: 16px;
+    -fx-background-color: #EEF3F7;
+}
+
+/* Cabecera y títulos principales */
+.cabecera {
+    -fx-background-color: #0F3D5E;
+    -fx-padding: 20px;
+    -fx-alignment: center-left;
+}
+
+.titulo-clinica {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.subtitulo {
+    -fx-font-size: 13px;
+    -fx-text-fill: white;
+}
+
+.titulo-seccion {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #1A2233;
+}
+
+.titulo-navegacion {
+    -fx-font-weight: bold;
+    -fx-text-fill: #5A6472;
+}
+
+/* Navegación lateral */
+.navegacion {
+    -fx-background-color: white;
+    -fx-padding: 20px 15px;
+    -fx-spacing: 14px;
+    -fx-border-color: #EEF3F7;
+    -fx-border-width: 0 1px 0 0;
+    -fx-min-width: 180px;
+}
+
+/* Contenido central */
+.contenido {
+    -fx-padding: 25px;
+    -fx-spacing: 18px;
+}
+
+/* Tarjetas */
+.tarjeta {
+    -fx-background-color: white;
+    -fx-padding: 18px;
+    -fx-spacing: 12px;
+    -fx-background-radius: 8px;
+    -fx-border-color: #EEF3F7;
+    -fx-border-radius: 8px;
+}
+
+/* Buscador */
+.text-field {
+    -fx-background-color: white;
+    -fx-text-fill: #1A2233;
+    -fx-prompt-text-fill: #5A6472;
+    -fx-border-color: #5A6472;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+    -fx-padding: 9px;
+}
+
+/* Botones: color de acción de la guía */
+.button {
+    -fx-background-color: #0B6E6E;
+    -fx-text-fill: white;
+    -fx-font-size: 16px;
+    -fx-background-radius: 5px;
+    -fx-padding: 10px 15px;
+    -fx-cursor: hand;
+}
+
+.button:hover {
+    -fx-background-color: #0F3D5E;
+}
+
+/* Barra de estado */
+.barra-estado {
+    -fx-background-color: white;
+    -fx-padding: 12px 20px;
+    -fx-border-color: #EEF3F7;
+    -fx-border-width: 1px 0 0 0;
+}
+
+.estado-texto {
+    -fx-text-fill: #5A6472;
+    -fx-font-size: 13px;
+}
